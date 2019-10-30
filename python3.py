@@ -28,11 +28,11 @@ serie4 = Serie("Serie4", 9 ,False,"Anime", "creador4")
 serie5 = Serie("Serie5", 3,True,"Infantil", "creador5")
 
 
-videojuego1 = Videojuego("Videojuego1", 250, False, "Shooter", "Activision")
-videojuego2 = Videojuego("Videojuego2", 100, True, "RPG", "Microsoft/Mojang")
-videojuego3 = Videojuego("Videojuego3", 700, True, "MMORPG", "Blizzard")
-videojuego4 = Videojuego("Videojuego4", 300, True, "Indie", "IndieGames")
-videojuego5 = Videojuego("Videojuego5", 7000, False, "RPG/Accion", "Rockstar Games")
+videojuego1 = Videojuego("Videojuego1", 250, False, "Tiros", "Compañia 1")
+videojuego2 = Videojuego("Videojuego2", 100, True, "Multiplataforma", "Compañia 2")
+videojuego3 = Videojuego("Videojuego3", 700, True, "Miedo", "Compañia 3")
+videojuego4 = Videojuego("Videojuego4", 300, True, "Online", "Compañia 4")
+videojuego5 = Videojuego("Videojuego5", 7000, False, "Survival", "Compañia 5")
 
 
 entregar(serie1)
